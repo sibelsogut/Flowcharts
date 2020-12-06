@@ -1,4 +1,3 @@
-# Flowcharts
 Başla
 ad="Sibel"
 ad=  ad+ "Hanım"
